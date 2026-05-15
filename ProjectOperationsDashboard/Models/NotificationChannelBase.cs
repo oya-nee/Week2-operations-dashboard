@@ -1,6 +1,6 @@
-﻿using OperationsDashboardTest3.Interfaces;
+﻿using ProjectOperationsDashboard.Interfaces;
 
-namespace OperationsDashboardTest3.Models
+namespace ProjectOperationsDashboard.Models
 {
     public abstract class NotificationChannelBase : INotificationChannel
     {

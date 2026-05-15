@@ -1,4 +1,4 @@
-﻿namespace OperationsDashboardTest3.Models
+﻿namespace ProjectOperationsDashboard.Models
 {
     public class NotificationResponse<T>
     {

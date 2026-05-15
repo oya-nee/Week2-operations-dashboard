@@ -1,6 +1,6 @@
-﻿using OperationsDashboardTest3.Models;
+﻿using ProjectOperationsDashboard.Models;
 
-namespace OperationsDashboardTest3.Interfaces
+namespace ProjectOperationsDashboard.Interfaces
 {
     public interface INotificationChannel
     {

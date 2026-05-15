@@ -1,7 +1,7 @@
-﻿using OperationsDashboardTest3.Interfaces;
-using OperationsDashboardTest3.Models;
+﻿using ProjectOperationsDashboard.Interfaces;
+using ProjectOperationsDashboard.Models;
 
-namespace OperationsDashboardTest3.Services
+namespace ProjectOperationsDashboard.Services
 {
     public class NotificationService
     {
